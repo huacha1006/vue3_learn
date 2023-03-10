@@ -43,6 +43,7 @@ export default {
   border-radius: 10px;
   transition: all 0.5s;
   z-index: 1;
+  color: #000;
 }
 .left {
   margin-right: 20px;
